@@ -1,6 +1,6 @@
 package com.example.crudcompleto.recursos
 
-import com.example.crudcompleto.daoclass.Juego
+import com.example.crudcompleto.clasepojo.Juego
 
 object juegos {
     val listajuegos = mutableListOf(

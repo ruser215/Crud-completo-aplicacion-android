@@ -5,7 +5,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.crudcompleto.R
-import com.example.crudcompleto.daoclass.Juego
+import com.example.crudcompleto.clasepojo.Juego
 import com.example.crudcompleto.databinding.ItemJuegoBinding
 
 class aptadorjuego(

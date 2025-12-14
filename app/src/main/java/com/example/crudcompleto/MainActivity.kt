@@ -9,7 +9,7 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.crudcompleto.adapters.aptadorjuego
-import com.example.crudcompleto.daoclass.Juego
+import com.example.crudcompleto.clasepojo.Juego
 import com.example.crudcompleto.databinding.ActivityMainBinding
 import com.example.crudcompleto.recursos.juegos
 

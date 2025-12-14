@@ -6,7 +6,7 @@ import android.os.Build
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.crudcompleto.daoclass.Juego
+import com.example.crudcompleto.clasepojo.Juego
 import com.example.crudcompleto.databinding.ActivityEditarJuegoBinding
 
 class EditarJuego : AppCompatActivity() {

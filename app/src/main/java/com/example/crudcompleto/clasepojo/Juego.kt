@@ -1,4 +1,4 @@
-package com.example.crudcompleto.daoclass
+package com.example.crudcompleto.clasepojo
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
